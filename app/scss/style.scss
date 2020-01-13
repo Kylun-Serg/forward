@@ -53,6 +53,7 @@
 	background-position: center;
 	position: relative;
 	padding: 182px 0 117px;
+	overflow: hidden;
 	&::before {
 		content: '';
 		position: absolute;
@@ -60,7 +61,7 @@
 		background-repeat: no-repeat;
 		background-size: contain;
 		background-position: center;
-		width: 46vw;
+		width: 44vw;
 		height: 48vw;
 		bottom: 0;
 		right: 10vw;
